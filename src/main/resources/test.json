@@ -1,0 +1,6 @@
+{
+  "hello": "World!",
+  "user": "postgres",
+  "pass": "",
+  "url": "http://posgres:5432/test"
+}
