@@ -1,3 +1,5 @@
+package com.lab1;
+
 public class Distance {
     double x1, y1, x2, y2;
 

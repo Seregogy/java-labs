@@ -1,3 +1,5 @@
+package com.lab1;
+
 public class Greeting {
     public void greet(String name, int age) {
         assert name.matches("\\d*") : "Невалидное имя";

@@ -1,3 +1,5 @@
+package com.lab1;
+
 public class Arithmetics {
     public void doArithmetics(int a, int b) {
         System.out.printf("Сумма: %d%n", a + b);

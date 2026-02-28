@@ -1,3 +1,5 @@
+package com.lab1;
+
 interface Converter {
     float convert(float tempCelsius);
     String getUnits();

@@ -1,3 +1,5 @@
+package com.lab1;
+
 public class ReverseNumber {
     int num;
 

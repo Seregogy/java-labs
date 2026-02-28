@@ -1,3 +1,5 @@
+package com.lab1;
+
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Scanner;
@@ -51,7 +53,6 @@ public class Main {
             System.out.println("\nTask 8");
             System.out.println("Введите трехзначное число: ");
             System.out.println(new ReverseNumber(scanner.nextInt()));
-
         } catch (IOException _) { }
     }
 }
