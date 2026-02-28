@@ -1,5 +1,3 @@
-package com.lab1;
-
 public class SumOfDigit {
     public int calc(int num) {
         assert num > 99 && num < 1000 : "Число выходит за границы диапазона";
